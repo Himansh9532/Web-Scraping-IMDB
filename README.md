@@ -32,17 +32,11 @@ This project focuses on predicting movie ratings using machine learning techniqu
 
 ## **Installation**  
 To run the project locally:  
-1. Clone the repository:  
+ Clone the repository:  
    ```bash  
    git clone https://github.com/Himansh9532/Web-Scrapping  
    ```  
-2. Install the required dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the Streamlit application:  
-   ```bash  
-   streamlit run app.py  
+
    ```  
 
 ## **Results**  
